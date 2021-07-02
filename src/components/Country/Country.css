@@ -1,0 +1,9 @@
+.country-style{
+    width:50%;
+    margin:auto;
+    background:#ddd;
+    border:3px solid purple;
+    border-radius:15px;
+    padding:20px;
+    text-align:center;
+}
